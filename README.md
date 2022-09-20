@@ -1,6 +1,6 @@
 # UK Gender Pay Gap
 
-Yannis Galanakis $\cdot$ Sept 12, 2022
+Yannis Galanakis $\cdot$ Sept 20, 2022
 <galanakis.gian@gmail.com>
 
 ## Data source
