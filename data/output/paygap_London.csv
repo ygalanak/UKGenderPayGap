@@ -1,0 +1,166 @@
+"year","local_authority_name","region_name","median"
+2018,"Barking and Dagenham","London",12.1
+2018,"Barnet","London",1.05
+2018,"Bexley","London",14.1
+2018,"Brent","London",5.4
+2018,"Bromley","London",11.7
+2018,"Camden","London",8.9
+2018,"City of London","London",20
+2018,"Croydon","London",17.05
+2018,"Ealing","London",5.9
+2018,"Enfield","London",3
+2018,"Greenwich","London",6.55
+2018,"Hackney","London",13
+2018,"Hammersmith and Fulham","London",6.5
+2018,"Haringey","London",3
+2018,"Harrow","London",7.55
+2018,"Havering","London",15.8
+2018,"Hillingdon","London",8.1
+2018,"Hounslow","London",6.6
+2018,"Islington","London",14.3
+2018,"Kensington and Chelsea","London",6.4
+2018,"Kingston upon Thames","London",7
+2018,"Lambeth","London",10.5
+2018,"Lewisham","London",7.7
+2018,"Merton","London",8.6
+2018,"Newham","London",8.95
+2018,"Redbridge","London",1
+2018,"Richmond upon Thames","London",7.2
+2018,"Southwark","London",11.3
+2018,"Sutton","London",11
+2018,"Tower Hamlets","London",15
+2018,"Waltham Forest","London",10.3
+2018,"Wandsworth","London",8.95
+2018,"Westminster","London",8.9
+2019,"Barking and Dagenham","London",10.3
+2019,"Barnet","London",2.5
+2019,"Bexley","London",6
+2019,"Brent","London",2.7
+2019,"Bromley","London",11.35
+2019,"Camden","London",8.2
+2019,"City of London","London",19.2
+2019,"Croydon","London",14.5
+2019,"Ealing","London",6
+2019,"Enfield","London",3.8
+2019,"Greenwich","London",9.3
+2019,"Hackney","London",10.7
+2019,"Hammersmith and Fulham","London",5.7
+2019,"Haringey","London",1.1
+2019,"Harrow","London",7
+2019,"Havering","London",13.3
+2019,"Hillingdon","London",6.5
+2019,"Hounslow","London",4.8
+2019,"Islington","London",15.3
+2019,"Kensington and Chelsea","London",5.5
+2019,"Kingston upon Thames","London",10.35
+2019,"Lambeth","London",8.4
+2019,"Lewisham","London",9.3
+2019,"Merton","London",9.6
+2019,"Newham","London",6.1
+2019,"Redbridge","London",5.4
+2019,"Richmond upon Thames","London",5.8
+2019,"Southwark","London",9
+2019,"Sutton","London",13.45
+2019,"Tower Hamlets","London",16.1
+2019,"Waltham Forest","London",7.65
+2019,"Wandsworth","London",9.8
+2019,"Westminster","London",9.45
+2020,"Barking and Dagenham","London",2.6
+2020,"Barnet","London",4.15
+2020,"Bexley","London",9.8
+2020,"Brent","London",8
+2020,"Bromley","London",17
+2020,"Camden","London",10
+2020,"City of London","London",20.6
+2020,"Croydon","London",13.3
+2020,"Ealing","London",7.85
+2020,"Enfield","London",1.5
+2020,"Greenwich","London",26.75
+2020,"Hackney","London",13
+2020,"Hammersmith and Fulham","London",5.5
+2020,"Haringey","London",0
+2020,"Harrow","London",6.75
+2020,"Havering","London",6.05
+2020,"Hillingdon","London",7.7
+2020,"Hounslow","London",4.4
+2020,"Islington","London",17.7
+2020,"Kensington and Chelsea","London",6.8
+2020,"Kingston upon Thames","London",11
+2020,"Lambeth","London",9.9
+2020,"Lewisham","London",16.7
+2020,"Merton","London",12.6
+2020,"Newham","London",7.7
+2020,"Redbridge","London",6.15
+2020,"Richmond upon Thames","London",6.4
+2020,"Southwark","London",10.2
+2020,"Sutton","London",14.05
+2020,"Tower Hamlets","London",18.3
+2020,"Waltham Forest","London",7.85
+2020,"Wandsworth","London",9.8
+2020,"Westminster","London",12.2
+2021,"Barking and Dagenham","London",14
+2021,"Barnet","London",1.2
+2021,"Bexley","London",4.85
+2021,"Brent","London",5
+2021,"Bromley","London",10
+2021,"Camden","London",9.5
+2021,"City of London","London",19.7
+2021,"Croydon","London",11.6
+2021,"Ealing","London",7.25
+2021,"Enfield","London",4.1
+2021,"Greenwich","London",9.3
+2021,"Hackney","London",14.4
+2021,"Hammersmith and Fulham","London",6.8
+2021,"Haringey","London",2
+2021,"Harrow","London",12.1
+2021,"Havering","London",17.35
+2021,"Hillingdon","London",8.75
+2021,"Hounslow","London",11.25
+2021,"Islington","London",16.6
+2021,"Kensington and Chelsea","London",6.4
+2021,"Kingston upon Thames","London",7
+2021,"Lambeth","London",10.1
+2021,"Lewisham","London",9.3
+2021,"Merton","London",9.5
+2021,"Newham","London",6
+2021,"Redbridge","London",3.5
+2021,"Richmond upon Thames","London",8.1
+2021,"Southwark","London",12
+2021,"Sutton","London",12.3
+2021,"Tower Hamlets","London",17.1
+2021,"Waltham Forest","London",6.85
+2021,"Wandsworth","London",10.6
+2021,"Westminster","London",11
+2022,"Barking and Dagenham","London",12.95
+2022,"Barnet","London",2.3
+2022,"Bexley","London",7.5
+2022,"Brent","London",5.4
+2022,"Bromley","London",17.8
+2022,"Camden","London",9.15
+2022,"City of London","London",18.7
+2022,"Croydon","London",7.7
+2022,"Ealing","London",6.7
+2022,"Enfield","London",4
+2022,"Greenwich","London",11.6
+2022,"Hackney","London",11.6
+2022,"Hammersmith and Fulham","London",5.55
+2022,"Haringey","London",4.45
+2022,"Harrow","London",10.8
+2022,"Havering","London",16.55
+2022,"Hillingdon","London",10.8
+2022,"Hounslow","London",7
+2022,"Islington","London",15.5
+2022,"Kensington and Chelsea","London",5.25
+2022,"Kingston upon Thames","London",6
+2022,"Lambeth","London",9.8
+2022,"Lewisham","London",11.6
+2022,"Merton","London",7.65
+2022,"Newham","London",5.8
+2022,"Redbridge","London",2.1
+2022,"Richmond upon Thames","London",5.8
+2022,"Southwark","London",11
+2022,"Sutton","London",8
+2022,"Tower Hamlets","London",16.75
+2022,"Waltham Forest","London",6.8
+2022,"Wandsworth","London",8.5
+2022,"Westminster","London",10
